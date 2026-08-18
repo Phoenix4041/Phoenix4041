@@ -1,39 +1,60 @@
-<h2 align="center">Hola, soy Phoenix4041<br/></h2>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200&section=header&text=Phoenix4041&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Desarrollador+de+Plugins+PocketMine-MP;Apasionado+por+Python+%26+Automatizaci%C3%B3n;Construyendo+mundos+de+Minecraft+desde+c%C3%B3digo" />
+</a>
+
+</div>
 
 ---
 
-![img](https://images-ext-1.discordapp.net/external/QuqsiOAq8c6pTZOcbbjxMfjBaKrGawBiqtUy2OBF5UE/%3Fsize%3D1024/https/cdn.discordapp.com/guilds/1391991120396812300/users/725012429863518350/avatars/85e83bd82c42dbebb6fbd4c70fe9f93c.png?format=webp&quality=lossless&width=640&height=640)
+<img align="right" width="220" src="https://images-ext-1.discordapp.net/external/QuqsiOAq8c6pTZOcbbjxMfjBaKrGawBiqtUy2OBF5UE/%3Fsize%3D1024/https/cdn.discordapp.com/guilds/1391991120396812300/users/725012429863518350/avatars/85e83bd82c42dbebb6fbd4c70fe9f93c.png?format=webp&quality=lossless&width=640&height=640" style="border-radius:50%;" />
 
+### 👋 Sobre mí
 
+- 🔭 Actualmente desarrollando **plugins para PocketMine-MP**
+- 🌱 Aprendiendo constantemente sobre **Python** y buenas prácticas de código
+- ⚡ Me apasiona optimizar y crear experiencias dentro de **Minecraft Bedrock**
+- 📫 Puedes contactarme por Discord (ver sección de abajo)
 
-# 💻 Stack Tecnológico & Intereses:
+<br clear="right"/>
 
-![Pocketmine](https://img.shields.io/badge/PocketMine-%231E90FF.svg?style=for-the-badge&logo=php&logoColor=white)
+## 💻 Stack Tecnológico & Intereses
 
+<div align="left">
+
+![PocketMine](https://img.shields.io/badge/PocketMine--MP-1E90FF?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Programación](https://img.shields.io/badge/Programación-Development-red?style=for-the-badge&logo=codesandbox)
+</div>
 
-![Código](https://img.shields.io/badge/Código-Code-blue?style=for-the-badge&logo=visual-studio-code)
+## 📊 Mis Estadísticas de GitHub
 
-![Mundos](https://img.shields.io/badge/Mundos-Worlds-green?style=for-the-badge&logo=minecraft)
+<div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Phoenix4041&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix4041&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Phoenix4041&theme=tokyonight&hide_border=true" />
 
-# 📊 Mis Estadísticas de GitHub:
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Phoenix4041&theme=tokyo-night&hide_border=true" />
 
-![](https://github-readme-stats.vercel.app/api?username=Phoenix4041&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Phoenix4041&theme=dark&hide_border=false)<br/>
+## 🌐 Contacto
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix4041&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1409673678840397835?theme=dark&bg=1E90FF&animated=true&hideDiscrim=true&borderRadius=15px&idleMessage=Conectado)](https://discord.com/users/1409673678840397835)
 
-
-# Contacto
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/TU_ID_NUMERICO_DE_DISCORD?theme=dark&bg=7289DA&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Conectado)](https://discord.com/users/725012429863518350)
+</div>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer" />
