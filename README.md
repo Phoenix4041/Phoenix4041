@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200&section=header&text=Phoenix4041&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Desarrollador+de+Plugins+PocketMine-MP;Apasionado+por+Python+%26+Automatizaci%C3%B3n;Construyendo+mundos+de+Minecraft+desde+c%C3%B3digo" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=1E90FF&center=true&vCenter=true&width=650&lines=Desarrollador+de+Software;Plugins+para+PocketMine-MP+%7C+Python+%7C+PHP;Aprendiendo+algo+nuevo+cada+d%C3%ADa" />
 </a>
 
 </div>
@@ -14,9 +14,10 @@
 
 ### 👋 Sobre mí
 
-- 🔭 Actualmente desarrollando **plugins para PocketMine-MP**
-- 🌱 Aprendiendo constantemente sobre **Python** y buenas prácticas de código
-- ⚡ Me apasiona optimizar y crear experiencias dentro de **Minecraft Bedrock**
+- 💻 Desarrollador de software, principalmente en **Python**, **PHP** y **PocketMine-MP**
+- 🎮 Me gusta crear plugins y experiencias para **Minecraft Bedrock**
+- 🌱 Siempre aprendiendo nuevas tecnologías y mejores prácticas de programación
+- ⚙️ Interesado en automatización, mundos personalizados y herramientas para desarrolladores
 - 📫 Puedes contactarme por Discord (ver sección de abajo)
 
 <br clear="right"/>
@@ -39,9 +40,9 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Phoenix4041&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix4041&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix4041&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Phoenix4041&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Phoenix4041&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phoenix4041&theme=tokyo-night&hide_border=true" />
 
@@ -51,7 +52,7 @@
 
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1409673678840397835?theme=dark&bg=1E90FF&animated=true&hideDiscrim=true&borderRadius=15px&idleMessage=Conectado)](https://discord.com/users/1409673678840397835)
+[![Discord](https://img.shields.io/badge/Discord-1E90FF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1409673678840397835)
 
 </div>
 
