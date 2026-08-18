@@ -12,17 +12,17 @@
 
 <img align="right" width="220" src="https://images-ext-1.discordapp.net/external/QuqsiOAq8c6pTZOcbbjxMfjBaKrGawBiqtUy2OBF5UE/%3Fsize%3D1024/https/cdn.discordapp.com/guilds/1391991120396812300/users/725012429863518350/avatars/85e83bd82c42dbebb6fbd4c70fe9f93c.png?format=webp&quality=lossless&width=640&height=640" style="border-radius:50%;" />
 
-### 👋 Sobre mí
+### Sobre mí
 
-- 💻 Desarrollador de software, principalmente en **Python**, **PHP** y **PocketMine-MP**
-- 🎮 Me gusta crear plugins y experiencias para **Minecraft Bedrock**
-- 🌱 Siempre aprendiendo nuevas tecnologías y mejores prácticas de programación
-- ⚙️ Interesado en automatización, mundos personalizados y herramientas para desarrolladores
-- 📫 Puedes contactarme por Discord (ver sección de abajo)
+- Desarrollador de software, principalmente en **Python**, **PHP** y **PocketMine-MP**
+- Me gusta crear plugins y experiencias para **Minecraft Bedrock**
+- Siempre aprendiendo nuevas tecnologías y mejores prácticas de programación
+- Interesado en automatización, mundos personalizados y herramientas para desarrolladores
+- Puedes contactarme por Discord (ver sección de abajo)
 
 <br clear="right"/>
 
-## 💻 Stack Tecnológico & Intereses
+## Stack Tecnológico & Intereses
 
 <div align="left">
 
@@ -35,12 +35,12 @@
 
 </div>
 
-## 📊 Mis Estadísticas de GitHub
+## Mis Estadísticas de GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Phoenix4041&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix4041&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Phoenix4041&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix4041&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8" />
 
 <img src="https://streak-stats.demolab.com/?user=Phoenix4041&theme=tokyonight&hide_border=true" />
 
@@ -48,7 +48,7 @@
 
 </div>
 
-## 🌐 Contacto
+## Contacto
 
 <div align="center">
 
