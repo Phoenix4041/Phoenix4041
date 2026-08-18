@@ -48,8 +48,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Phoenix4041&theme=tokyonight&hide_border=true&count_private=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix4041&theme=tokyonight&hide_border=true&count_private=false&layout=compact&langs_count=8" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Phoenix4041&theme=tokyonight&hide_border=true&count_private=false" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Phoenix4041&theme=tokyonight&hide_border=true&count_private=false&layout=compact&langs_count=8" />
 
 <img src="https://streak-stats.demolab.com/?user=Phoenix4041&theme=tokyonight&hide_border=true" />
 
